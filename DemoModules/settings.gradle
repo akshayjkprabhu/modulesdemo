@@ -1,2 +1,2 @@
-include ':app', ':base', ':welcome'
+include ':app', ':welcome', ':base'
 rootProject.name='DemoModules'
